@@ -1,0 +1,174 @@
+{
+  "Header": {
+    "title": "Szkoła narciarska i snowboardowa",
+    "paragraph": "Dowiedz się więcej, sprawdź ofertę. "
+  },
+  "About": {
+    "paragraph": "Szkoła narciaska i snowboardowa Snow School powstała w 2016 roku. W naszej szkółce łączymy naukę z zabawą, dzięki czemu stawiania pierwszych kroków na nartach, czy snowboardzie nigdy nie mogła być łatwiejsza. ",
+    "Why": [
+      "Wykwalifikowana kadra instruktorska",
+      "Przedszkola narciarskie i snowboardowe",
+      "Zajęcia indywidualne",
+      "Zajęcia grupowe"
+    ],
+    "Why2": [
+      "Wypożyczalnia sprzętu zimowego",
+      "Baza noclegowa i topowa restauracja zaraz przy stoku",
+      "Największe lodowisko w regionie w ośrodku",
+      "Serwis nart i snowboardów"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Hotel 365 & Restauracja Siedem Pokus",
+      "largeImage": "img/portfolio/stadion.jpg",
+      "smallImage": "img/portfolio/stadion.jpg"
+    },
+    {
+      "title": "Stok",
+      "largeImage": "img/portfolio/stok.jpg",
+      "smallImage": "img/portfolio/stok.jpg"
+    },
+ 
+    {
+      "title": "Przedszkola narciarskie",
+      "largeImage": "img/portfolio/children.jpg",
+      "smallImage": "img/portfolio/children.jpg"
+    },
+   
+    {
+      "title": "Rozdanie dyplomów",
+      "largeImage": "img/portfolio/dyplomy3.jpg",
+      "smallImage": "img/portfolio/dyplomy3.jpg"
+    },
+    {
+      "title": "Rozdanie dyplomów",
+      "largeImage": "img/portfolio/dyplomy.jpg",
+      "smallImage": "img/portfolio/dyplomy.jpg"
+    },
+  
+    {
+      "title": "Stok",
+      "largeImage": "img/portfolio/stok_05.jpg",
+      "smallImage": "img/portfolio/stok_05.jpg"
+    },
+  
+    {
+      "title": "Naśnieżanie",
+      "largeImage": "img/portfolio/stok_04.jpg",
+      "smallImage": "img/portfolio/stok_04.jpg"
+    },
+    {
+      "title": "Widok z Góry Pierściennicy",
+      "largeImage": "img/portfolio/stok_02.jpg",
+      "smallImage": "img/portfolio/stok_02.jpg"
+    },
+    {
+      "title": "Rozdanie dyplomów",
+      "largeImage": "img/portfolio/dyplomy2.jpg",
+      "smallImage": "img/portfolio/dyplomy2.jpg"
+    }
+  ],
+ 
+  "Services": [
+    {
+      "icon": "person-skiing",
+      "name": "NARCIARSTWO",
+      "text": ""
+    },
+    {
+      "icon": "person-snowboarding",
+      "name": "SNOWBOARD",
+      "text": ""
+    },
+    {
+      "icon": "people-group",
+      "name": "ZAJĘCIA GRUPOWE",
+      "text": "Ofarta indywidualna (więcej informacji: info@snowschool.pl lub +41 361 55 55 (wew. 3)."
+    }
+
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Aleja Na Stadion 365, 25-127 Kielce",
+    "phone": "+41 361 55 55 (wew. 3)",
+    "email": "info@snowschool.pl",
+    "partner01": "img/logo01.png"
+  },
+
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}

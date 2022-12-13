@@ -47,6 +47,11 @@ export const Contact = (props) => {
                       <i className='fa fa-facebook'></i>
                     </a>
                   </li>
+                  <li>
+                    <a href='https://www.instagram.com/stadion_kielce/?hl=pl'>
+                    <i class="fa fa-instagram insta"></i>
+                    </a>
+                  </li>
                  
                 </ul>
               </div>

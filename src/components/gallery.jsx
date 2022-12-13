@@ -7,7 +7,7 @@ export const Gallery = (props) => {
         <div className='section-title'>
           <h2>Galeria</h2>
           <p>
-          Zachęcamy do zapoznania się z naszą ofertą feryjnych zajęć grupowych dla dzieci!
+          Sprawdź jak bawiliśmy się w zeszłym sezonie!
           </p>
         </div>
         <div className='row'>

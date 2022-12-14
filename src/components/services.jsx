@@ -14,7 +14,7 @@ export const Services = (props) => {
           <p>
           Prowadzimy lekcje narciarstwa zjazdowego i jazdy na snowboardzie, dla dzieci i dorosłych. 
           Poziom trudności zajęć dostosowany jest do wieku oraz poziomu zaawansowania kursanta. 
-          W oferie znajdziecie lekcje dla narciarskich i snowboardowych nowicjuszy, jak i lekcje doskonalenia techniki jazdy.
+          W oferie znajdziecie lekcje dla narciarskich i snowboardowych nowicjuszy, jak i zajęcia z doskonalenia techniki jazdy.
           </p>
         </div>
         <div className='row'>

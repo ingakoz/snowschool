@@ -610,6 +610,9 @@ label {
   background: #fff;
 }
 
+.ferie {
+  padding-top: 2rem !important;
+}
 
 /* Footer Section*/
 #footer {

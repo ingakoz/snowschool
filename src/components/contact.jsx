@@ -9,7 +9,7 @@ export const Contact = (props) => {
               <div className='section-title'>
                 <h2>Kontakt</h2>
                 <p>
-                 W sezonie zimowym jesteśmy do dyspozycji codziennie, od 10:00 do 22:00.
+                 W sezonie zimowym jesteśmy do dyspozycji codziennie, od 10:00 do 21:00.
                 </p>
               </div>
 

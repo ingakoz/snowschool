@@ -22,7 +22,7 @@ export const Features = (props) => {
             <div className="container">
             <div className="col-md-10 col-md-offset-1 section-title">
             <Image
-                title={"Zapisy nadal trwają!"}
+                title={"Zapisy rozpoczną się wkrótce!"}
                 largeImage={"./img/cennik/ferie.png"}
                 smallImage={"./img/cennik/ferie.png"}
             />

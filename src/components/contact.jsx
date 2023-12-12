@@ -56,7 +56,7 @@ export const Contact = (props) => {
                 </ul>
               </div>
           </div>
-          <div><p onclick="window.location.href='regulamin_szkola.png'">Regulamin</p></div>
+          <div><button onclick="window.location.href='regulamin_szkola.png'">Regulamin</button></div>
               
             </div>
           </div>

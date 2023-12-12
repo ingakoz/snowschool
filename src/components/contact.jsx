@@ -57,9 +57,7 @@ export const Contact = (props) => {
               </div>
           </div>
           <div id="reg">
-          <a href="regulamin_szkola.png" download >  
-  <div src="regulamin_szkola.png" alt="javaTpoint" width="104" height="142">Regulamin</div>  
-</a>  
+          <a href = "./img/regulamin_szkola.png">Regulamin</a>
 </div>
               
             </div>

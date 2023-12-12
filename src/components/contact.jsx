@@ -56,7 +56,7 @@ export const Contact = (props) => {
                 </ul>
               </div>
           </div>
-          <div><p><a href="path_to_file" download="./img/regulamin_szkola.png">Regulamin</a></p></div>
+          <div><p><a href="path_to_file" download="/regulamin_szkola.png">Regulamin</a></p></div>
               
             </div>
           </div>

@@ -56,7 +56,11 @@ export const Contact = (props) => {
                 </ul>
               </div>
           </div>
-          <div><button onclick="window.location.href='regulamin_szkola.png'">Regulamin</button></div>
+          <div id="reg">
+          <a href="regulamin_szkola.png" download >  
+  <div src="regulamin_szkola.png" alt="javaTpoint" width="104" height="142">Regulamin</div>  
+</a>  
+</div>
               
             </div>
           </div>

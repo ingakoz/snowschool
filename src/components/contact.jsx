@@ -1,5 +1,5 @@
 export const Contact = (props) => {
-
+  
   return (
     <div>
       <div id='kontakt'>
@@ -56,7 +56,7 @@ export const Contact = (props) => {
                 </ul>
               </div>
           </div>
-          <div><p><a href="path_to_file" download="/regulamin_szkola.png">Regulamin</a></p></div>
+          <div><p onclick="window.location.href='regulamin_szkola.png'">Regulamin</p></div>
               
             </div>
           </div>

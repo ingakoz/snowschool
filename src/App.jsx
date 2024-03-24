@@ -6,9 +6,8 @@ import { Services } from "./components/services";
 import { Features } from "./components/features";
 import { Gallery } from "./components/gallery";
 import { Contact } from "./components/contact";
-import SmoothScroll from "smooth-scroll";
 import JsonData from "./data/data.json";
-
+import SmoothScroll from "smooth-scroll";
 import "./App.css";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
@@ -17,41 +16,23 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
 });
 
 const App = () => {
-
-    let languageStoredInLocalStorage = localStorage.getItem("language");
-    let [language, setLanguage] = useState(
-      languageStoredInLocalStorage ? languageStoredInLocalStorage : "English"
-    );
-    const [landingPageData, setLandingPageData] = useState({});
-    useEffect(() => {
-      setLandingPageData(JsonData);
-    }, []);
-  
+  const [landingPageData, setLandingPageData] = useState({});
+  useEffect(() => {
+    setLandingPageData(JsonData);
+  }, []);
 
   return (
     <div>
-       <Navigation
-          language={language}
-          handleSetLanguage={language => {
-            setLanguage(language);
-            storeLanguageInLocalStorage(language);
-          }}
-        />
-
-      
-      <Header language={language} />
-      <About language={language}/>
-      <Services language={language} data={landingPageData.Portfolio}/>
-      <Features language={language} data={landingPageData.Portfolio}/>
-      <Gallery  language={language} data={landingPageData.Gallery}/>
-      <Contact language={language}/>
+      <Navigation />
+      <Header data={landingPageData.Header} />
+      <About data={landingPageData.About} />
+      <Services data={landingPageData.Services} />
+      <Features data={landingPageData.Features} />
+      <Gallery data={landingPageData.Gallery}/>
      
+      <Contact data={landingPageData.Contact} />
     </div>
   );
-    }
-
-function storeLanguageInLocalStorage(language) {
-  localStorage.setItem("language", language);
-}
+};
 
 export default App;

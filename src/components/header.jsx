@@ -1,22 +1,4 @@
 export const Header = (props) => {
-
-  let content = {
-    English: {
-      block1: "Sea Escape Yacht Charter",
-      block2: "Your Unforgettable Journey Awaits!",
-    },
-    Polski: {
-        block1: "Sea Escape Yacht Charter",
-        block2: "Twoja niezapomniana podróż czeka!",
-      }
-    }
-
-
-  props.language === "Polski"
-  ? (content = content.Polski)
-  : (content = content.English);
-
-
   return (
     <header id='header'>
       <div className='intro'>
@@ -25,11 +7,16 @@ export const Header = (props) => {
             <div className='row'>
               <div className='col-md-8 col-md-offset-2 intro-text'>
                 <h1>
-                  {content.block1}
+                  {props.data ? props.data.title : 'Loading'}
                   <span></span>
                 </h1>
-                <p>{content.block2}</p>
-                
+                <p>{props.data ? props.data.paragraph : 'Loading'}</p>
+                <a
+                  href='#kontakt'
+                  className='btn btn-custom btn-lg page-scroll'
+                >
+                  Zadzwoń
+                </a>{' '}
               </div>
             </div>
           </div>

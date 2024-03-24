@@ -18,80 +18,75 @@
       "Serwis nart i snowboardów"
     ]
   },
-  "Portfolio": [
+  "Gallery": [
     {
-      "largeImage": "img/portfolio/cranchi_1.jpeg",
-      "smallImage": "img/portfolio/cranchi_1.jpeg"
+      "title": "Hotel 365 & Restauracja Siedem Pokus",
+      "largeImage": "img/portfolio/stadion.jpg",
+      "smallImage": "img/portfolio/stadion.jpg"
     },
     {
-      "largeImage": "img/portfolio/cranchi_2.jpeg",
-      "smallImage": "img/portfolio/cranchi_2.jpeg"
+      "title": "Stok",
+      "largeImage": "img/portfolio/stok.jpg",
+      "smallImage": "img/portfolio/stok.jpg"
     },
  
     {
-      "largeImage": "img/portfolio/cranchi_3.jpeg",
-      "smallImage": "img/portfolio/cranchi_3.jpeg"
+      "title": "Przedszkola narciarskie",
+      "largeImage": "img/portfolio/children.jpg",
+      "smallImage": "img/portfolio/children.jpg"
     },
    
     {
-      "largeImage": "img/portfolio/cranchi_4.jpeg",
-      "smallImage": "img/portfolio/cranchi_4.jpeg"
+      "title": "Rozdanie dyplomów",
+      "largeImage": "img/portfolio/dyplomy3.jpg",
+      "smallImage": "img/portfolio/dyplomy3.jpg"
     },
     {
-      "largeImage": "img/portfolio/cranchi_5.jpeg",
-      "smallImage": "img/portfolio/cranchi_5.jpeg"
-    },
-  
-    {
-      "largeImage": "img/portfolio/cranchi_6.jpg",
-      "smallImage": "img/portfolio/cranchi_6.jpg"
+      "title": "Rozdanie dyplomów",
+      "largeImage": "img/portfolio/dyplomy.jpg",
+      "smallImage": "img/portfolio/dyplomy.jpg"
     },
   
     {
-      "largeImage": "img/portfolio/cranchi_7.jpg",
-      "smallImage": "img/portfolio/cranchi_7.jpg"
+      "title": "Stok",
+      "largeImage": "img/portfolio/stok_05.jpg",
+      "smallImage": "img/portfolio/stok_05.jpg"
+    },
+  
+    {
+      "title": "Naśnieżanie",
+      "largeImage": "img/portfolio/stok_04.jpg",
+      "smallImage": "img/portfolio/stok_04.jpg"
     },
     {
-      "largeImage": "img/portfolio/cranchi_8.jpg",
-      "smallImage": "img/portfolio/cranchi_8.jpg"
+      "title": "Widok z Góry Pierściennicy",
+      "largeImage": "img/portfolio/stok_02.jpg",
+      "smallImage": "img/portfolio/stok_02.jpg"
     },
     {
-      "largeImage": "img/portfolio/cranchi_9.jpg",
-      "smallImage": "img/portfolio/cranchi_9.jpg"
-    },
-    {
-      "largeImage": "img/portfolio/cranchi_10.jpg",
-      "smallImage": "img/portfolio/cranchi_10.jpg"
+      "title": "Rozdanie dyplomów",
+      "largeImage": "img/portfolio/dyplomy2.jpg",
+      "smallImage": "img/portfolio/dyplomy2.jpg"
     }
   ],
  
-  "Gallery": [
+  "Services": [
     {
-      "largeImage": "img/galeria/cranchi_1.jpeg",
-      "smallImage": "img/galeria/cranchi_1.jpeg"
+      "icon": "person-skiing",
+      "name": "NARCIARSTWO",
+      "text": ""
     },
     {
-      "largeImage": "img/galeria/cranchi_2.jpeg",
-      "smallImage": "img/galeria/cranchi_2.jpeg"
-    },
- 
-    {
-      "largeImage": "img/galeria/cranchi_3.jpeg",
-      "smallImage": "img/galeria/cranchi_3.jpeg"
-    },
-   
-    {
-      "largeImage": "img/galeria/cranchi_4.jpeg",
-      "smallImage": "img/galeria/cranchi_4.jpeg"
+      "icon": "person-snowboarding",
+      "name": "SNOWBOARD",
+      "text": ""
     },
     {
-      "largeImage": "img/galeria/cranchi_5.jpeg",
-      "smallImage": "img/galeria/cranchi_5.jpeg"
-    },
-    {
-      "largeImage": "img/galeria/cranchi_9.jpg",
-      "smallImage": "img/galeria/cranchi_9.jpg"
+      "icon": "people-group",
+      "name": "ZAJĘCIA GRUPOWE",
+      "text": "Ofarta indywidualna (więcej informacji: info@snowschool-kielce.com lub +41 361 55 55 (wew. 3)."
     }
+
   ],
   "Features": [
   {

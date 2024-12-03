@@ -12,10 +12,12 @@ export const Services = (props) => {
         <div className='section-title'>
           <h2>Oferta</h2>
           <p>
-          Prowadzimy lekcje narciarstwa zjazdowego i jazdy na snowboardzie, dla dzieci i dorosłych. 
-          Poziom trudności zajęć dostosowany jest do wieku oraz poziomu zaawansowania kursanta. 
-          W oferie znajdziecie lekcje dla narciarskich i snowboardowych nowicjuszy, jak i zajęcia z doskonalenia techniki jazdy.
+          Prowadzimy lekcje narciarstwa zjazdowego oraz jazdy na snowboardzie, skierowane zarówno do dzieci, jak i dorosłych. Poziom trudności zajęć jest starannie dostosowany do wieku oraz poziomu zaawansowania każdego kursanta, co zapewnia maksymalny komfort i efektywność nauki.
           </p>
+          <p className='title-oferta'>⛷️Zajęcia dla każdego</p>
+          <p>W naszej ofercie znajdziecie lekcje zarówno dla narciarskich i snowboardowych nowicjuszy, jak i zajęcia z doskonalenia techniki jazdy. Niezależnie od tego, czy stawiacie pierwsze kroki na stoku, czy chcecie podnieść swoje umiejętności na wyższy poziom, nasze zajęcia są dla Was idealnym wyborem.</p>
+          <p className='title-oferta'>📍Lokalizacja</p>
+          <p>Zajęcia prowadzimy na kieleckim Stadionie - Góra Pierściennica, co zapewnia doskonałe warunki do nauki i doskonalenia umiejętności narciarskich oraz snowboardowych. To malownicze miejsce oferuje trasy idealne dla osób początkujących, jak i doskonalących technikę.</p>
         </div>
         <div className='row'>
           {props.data

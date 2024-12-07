@@ -23,6 +23,7 @@ export const Features = (props) => {
                 <ul className="zapisy-ul"><p>W treści wiadomości należy podać:</p>
                           <li>⭐Imię i nazwisko dziecka</li>
                           <li>⭐Data turnusu</li>
+                          <li>⭐Telefon kontaktowy do rodzica/ opiekuna</li>
                           <li>⭐Stopień zaawansowania tj. czy dziecko kiedykolwiek jeździło na nartach/desce; czy wjeżdża samodzielnie orczykiem; czy potrafi hamować</li>
                           <li>⭐Czy dziecko posiada własny sprzęt czy będzie korzystało z wypożyczalni</li>
                           </ul>

@@ -32,11 +32,11 @@ export const Features = (props) => {
             <div className="container">
             <div className="col-md-10 col-md-offset-1 section-title">
     
-            {/* <Image
+            {<Image
                title={"Zapisy trwają!"}
                largeImage={"./img/cennik/ferie.png"}
                 smallImage={"./img/cennik/ferie.png"}
-            /> */}
+            /> }
             </div>
             </div>
         </div>
